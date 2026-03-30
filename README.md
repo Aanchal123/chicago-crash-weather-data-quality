@@ -56,11 +56,7 @@ Variables used:
 
 ```text
 .
-├── 01_crash_profiling.ipynb
-├── 02_openmeteo_pull.ipynb
-├── 03_daily_integration_and_checks.ipynb
+├── Python Notebooks
 ├── data_raw/
 ├── data_processed/
-├── figures/
-├── references/
 └── README.md
