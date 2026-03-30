@@ -1,0 +1,9 @@
+metric,value
+merged_day_count,181.0
+unmatched_weather_days_after_merge,0.0
+wet_day_count,94.0
+dry_day_count,87.0
+avg_daily_crashes_wet_days,305.8510638297872
+avg_daily_crashes_dry_days,285.7241379310345
+avg_daily_injuries_wet_days,65.37234042553192
+avg_daily_injuries_dry_days,65.42528735632185
