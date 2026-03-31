@@ -6,16 +6,34 @@ This repository contains my IS537 course project on data quality assessment and 
 
 This project examines how data quality assessment, cleaning, and integration decisions affect conclusions about daily crash frequency and injury severity under different weather conditions in Chicago.
 
-The workflow combines two sources:
+The project combines two meaningfully distinct sources:
 
-1. **Chicago Traffic Crashes dataset** from the City of Chicago Open Data Portal
-2. **Open-Meteo Historical Weather API** for daily weather conditions in Chicago
+1. **Chicago Traffic Crashes dataset** from the City of Chicago Open Data Portal (https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
+2. **Open-Meteo Historical Weather API** for daily weather conditions in central Chicago (https://open-meteo.com/en/docs/historical-weather-api) 
 
-The project focuses on fitness-for-use rather than causal inference. The goal is to understand how profiling, cleaning, uncertainty handling, and integration choices shape downstream descriptive analysis.
+The project focuses on **fitness-for-use** rather than causal inference. The goal is to understand how profiling, uncertainty handling, cleaning choices, and source integration shape downstream descriptive analysis.
 
 ## Research Question
 
 **How do data quality assessment, cleaning, and integration decisions affect conclusions about daily crash frequency and injury severity under different weather conditions in Chicago?**
+
+## Current Project Status
+
+### Completed
+- Acquired and locally snapshotted both data sources
+- Profiled the Chicago crash dataset
+- Profiled the Open-Meteo daily weather dataset
+- Aggregated crash records to the daily level
+- Integrated crash and weather data by date
+- Evaluated integration quality
+- Produced preliminary scenario-based impact comparisons
+- Generated processed outputs, issue-check files, and visualizations
+
+### In Progress
+- Final repair decisions for candidate inconsistencies
+- Stronger before/after quality metric comparison
+- Final fitness-for-use narrative
+- Final report packaging and reflection
 
 ## Data Sources
 
@@ -51,12 +69,19 @@ Variables used:
 - **Time window:** January 1, 2025 to June 30, 2025
 - **Integration level:** Daily
 - **Primary comparison:** Wet vs dry day crash summaries
+- **Secondary comparison:** Officer-reported vs Open-Meteo-based weather classification
 
 ## Repository Structure
 
 ```text
 .
-├── Python Notebooks
+├── Python Notebooks/
+│   ├── 01_crash_profiling.ipynb
+│   ├── 02_openmeteo_pull.ipynb
+│   └── 03_daily_integration_and_checks.ipynb
 ├── data_raw/
 ├── data_processed/
+├── figures/
+├── Aanchal_Malhotra_Project_Plan.pdf
+├── Traffic_Crashes_-_Crashes.csv.zip
 └── README.md
