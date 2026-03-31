@@ -75,7 +75,7 @@ Variables used:
 
 ```text
 .
-├── Python Notebooks/
+├── notebooks/
 │   ├── 01_crash_profiling.ipynb
 │   ├── 02_openmeteo_pull.ipynb
 │   └── 03_daily_integration_and_checks.ipynb
