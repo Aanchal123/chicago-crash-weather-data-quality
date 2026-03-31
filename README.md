@@ -82,6 +82,5 @@ Variables used:
 ├── data_raw/
 ├── data_processed/
 ├── figures/
-├── Aanchal_Malhotra_Project_Plan.pdf
 ├── Traffic_Crashes_-_Crashes.csv.zip
 └── README.md
