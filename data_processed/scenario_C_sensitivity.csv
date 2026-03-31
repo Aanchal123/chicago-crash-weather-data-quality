@@ -1,0 +1,3 @@
+wet_day,day_count,avg_crashes,median_crashes,avg_injuries,scenario
+0,70,295.42857142857144,297.0,68.81428571428572,C: Open-Meteo (low-uncertainty days only)
+1,67,307.2835820895522,317.0,67.43283582089552,C: Open-Meteo (low-uncertainty days only)
