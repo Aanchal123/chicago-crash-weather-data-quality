@@ -4,7 +4,7 @@
 - Source URL: https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 - Source organization: City of Chicago Open Data Portal / Chicago Police Department
 - Access method: CSV export from the Chicago Data Portal
-- Export date: [fill exact date if known]
+- Export date: 02/01/2026
 - Date range used: 2025-01-01 to 2025-06-30
 - Filters applied: Crash records restricted to the January 1, 2025 to June 30, 2025 project window
 - Raw file saved as: `Traffic_Crashes_-_Crashes.csv` / zipped snapshot in `data_raw/`
@@ -16,7 +16,7 @@
 - Source URL: https://open-meteo.com/en/docs/historical-weather-api
 - API endpoint: `https://archive-api.open-meteo.com/v1/archive`
 - Access method: API request from notebook
-- Request date: [fill exact date if known]
+- Request date: 02/01/2026
 - Latitude: 41.88
 - Longitude: -87.63
 - Timezone: America/Chicago
