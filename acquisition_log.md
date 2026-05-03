@@ -16,7 +16,7 @@
 - Source URL: https://open-meteo.com/en/docs/historical-weather-api
 - API endpoint: `https://archive-api.open-meteo.com/v1/archive`
 - Access method: API request from notebook
-- Latest Request date: 25/03/2026
+- Latest Request date: 25-03-2026
 - Latitude: 41.88
 - Longitude: -87.63
 - Timezone: America/Chicago
