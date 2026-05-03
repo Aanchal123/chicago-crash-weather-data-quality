@@ -1,0 +1,9 @@
+metric,value
+crash_weather_unknown_rate,0.08409192657812267
+crash_surface_unknown_rate,0.14579913445754364
+openmeteo_missing_precipitation_rate,0.0
+openmeteo_missing_weather_code_rate,0.0
+daily_join_match_rate,1.0
+scenario_A_retained_day_rate,1.0
+scenario_B_retained_day_rate,1.0
+scenario_C_retained_day_rate,0.7569060773480663
