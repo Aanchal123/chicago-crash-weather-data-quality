@@ -1,9 +1,0 @@
-metric,value
-row_count,53608
-column_count,17
-min_crash_date,2025-01-01 19:15:00
-max_crash_date,2025-06-30 18:42:00
-missing_crash_record_id,0
-duplicate_crash_record_id,0
-missing_crash_date,0
-unique_crash_days,181

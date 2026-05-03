@@ -1,4 +1,0 @@
-check,flagged_days
-precip > 100mm,0
-temp_min < -30C,0
-temp_max > 40C,0

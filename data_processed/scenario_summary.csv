@@ -1,4 +1,0 @@
-scenario,wet_day_rule,retained_days,excluded_days,wet_days,dry_days
-A_officer_reported,>=20% of crash records coded as precipitation-type weather,181,0,37,144
-B_openmeteo,Open-Meteo precipitation_sum > 0,181,0,94,87
-C_sensitivity_10pct,Scenario B restricted to days with UNKNOWN/OTHER weather share <= 10%,137,44,67,70
