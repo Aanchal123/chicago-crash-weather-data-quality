@@ -25,7 +25,7 @@ This repository contains my IS537 course project on how data quality assessment,
 ├── acquisition_log.md
 ├── cleaning_decisions.md
 └── README.md
-
+```
 ## Workflow
 
 ### 1. Crash Profiling
