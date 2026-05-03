@@ -1,0 +1,8 @@
+metric,value
+merged_rows,181
+expected_days_from_crash_daily,181
+weather_days_available,181
+matched_weather_rows,181
+missing_weather_rows_after_merge,0
+min_merged_day,2025-01-01 00:00:00
+max_merged_day,2025-06-30 00:00:00

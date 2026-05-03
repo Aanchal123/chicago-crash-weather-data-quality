@@ -1,0 +1,9 @@
+metric,value
+row_count,181
+column_count,11
+min_day,2025-01-01 00:00:00
+max_day,2025-06-30 00:00:00
+wet_day_count,94
+snow_day_count,30
+missing_precipitation_sum,0
+missing_weather_code,0
