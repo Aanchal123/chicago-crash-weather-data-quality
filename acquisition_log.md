@@ -4,7 +4,7 @@
 - Source URL: https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 - Source organization: City of Chicago Open Data Portal / Chicago Police Department
 - Access method: CSV export from the Chicago Data Portal
-- Latest Export date: 25/03/2026
+- Latest Export date: 25-03-2026
 - Date range used: 2025-01-01 to 2025-06-30
 - Filters applied: Crash records restricted to the January 1, 2025 to June 30, 2025 project window
 - Raw file saved as: `Traffic_Crashes_-_Crashes.csv` / zipped snapshot in `data_raw/`
