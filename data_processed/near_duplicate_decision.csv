@@ -1,0 +1,6 @@
+metric,value
+near_duplicate_candidates,1266
+pct_with_zero_injuries,97.2%
+pct_with_missing_lat,38.6%
+decision,RETAIN — distinct crash records confirmed via CRASH_RECORD_ID and field inspection
+records_removed,0
